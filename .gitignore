@@ -1,0 +1,3 @@
+.envrc
+cabal.project.local
+dist-newstyle
